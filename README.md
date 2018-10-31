@@ -4,7 +4,7 @@
 A partir dos conhecimentos em programação orientada a objeto, utilizando os princípios de classe, objeto, herança, polimorfismo, juntamente com os conhecimentos da linguagem de marcação HTML/CSS para interface do site,  foi implementado um site de reserva de imóveis, por temporada, que simula sistemas reais como trivago, Airbnb, Tripadvisor,etc.
 A linguagem de programação utilizada: PHP (Hypertext Preprocessor).
 ## Da motivação
-Este projeto foi proposto como composição da segunda nota da disciplina de Linguagem de Programação II, pela professora Maria Inés restovic, referente ao 3ª semestre do curso de [Sistemas de Informação](http://www.csi.uneb.br/) na [**Universidade do Estado da Bahia (UNEB)**](https://portal.uneb.br/).
+Este projeto foi proposto como composição da segunda nota da disciplina de Linguagem de Programação II, pela professora [Maria Inés Restovic](http://lattes.cnpq.br/3352656018233063), referente ao 3ª semestre do curso de [Sistemas de Informação](http://www.csi.uneb.br/) na [**Universidade do Estado da Bahia (UNEB)**](https://portal.uneb.br/).
 ## Do limite
 O projeto não possui uma relação unitária e exclusiva do imóvel (objeto) para o local da reserva, onde o imóvel só poderá conter 1(um) local de reserva e o local de reserva poderá conter N imóveis.
 Isso deve-se ao fato de ainda não haver um armazenamento dos imóveis intrínseco ao local da reserva. Entretanto, em projetos futuros, pretende-se implementar essa forma de armazenamento a fim de aproximar o projeto de um sistema de aluguel de imóvel real.
